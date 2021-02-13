@@ -47,13 +47,33 @@
 #### 5) HTML5 Elements
 ##### You can use a (anchor) elements to link to content outside of your web page.
 ##### <a> elements need a destination web address called an href attribute. They also need anchor text. Here's an example:
+<a href="https://freecodecamp.org">this links to freecodecamp.org</a>
 ```
 <a href="https://freecodecamp.org">this links to freecodecamp.org</a>
 ```
+#### 6) Nest an Anchor Element within a Paragraph
+##### you can nest links within other text elements.
+``` 
+  <p> Here's a <a target="_blank" href="http://freecodecamp.org"> link to freecodecamp.org</a> for you to follow.</p>
+```
+ <p> Here's a <a target="_blank" href="http://freecodecamp.org"> link to freecodecamp.org</a> for you to follow.</p>
 
+#### 7) Make Dead Links Using the Hash Symbol
+##### Sometimes you want to add a elements to your website before you know where they will link.
+For example: href="#"
 
-
-
+#### 8) Unordered list
+##### Unordered lists start with an opening <ul> element, followed by any number of <li> elements. Finally, unordered  ##### lists close with a </ul>
+```
+<ul>
+  <li>milk</li>
+  <li>cheese</li>
+</ul>
+```
+<ul>
+  <li>milk</li>
+  <li>cheese</li>
+</ul>
 
 ## CSS3
 
