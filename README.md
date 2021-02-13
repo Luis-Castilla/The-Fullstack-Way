@@ -30,6 +30,28 @@
 </main> 
 ```
 
+#### 4) HTML5 Elements
+##### add images to your website by using the img element, and point to a specific image's URL using the src         ##### attribute.
+##### An example of this would be:
+```
+<img src="https://www.freecatphotoapp.com/your-image.jpg">
+```
+##### All img elements must have an alt attribute.
+##### If the image is purely decorative, using an empty alt attribute is a best practice.
+ ```
+<img src="https://www.freecatphotoapp.com/your-image.jpg" alt="A business cat wearing a necktie.">
+```
+<img src="https://www.freecatphotoapp.com/your-image.jpg" alt="A business cat wearing a necktie.">
+
+
+#### 5) HTML5 Elements
+##### You can use a (anchor) elements to link to content outside of your web page.
+##### <a> elements need a destination web address called an href attribute. They also need anchor text. Here's an example:
+```
+<a href="https://freecodecamp.org">this links to freecodecamp.org</a>
+```
+
+
 
 
 
