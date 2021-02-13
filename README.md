@@ -24,11 +24,11 @@
 
 ##### Example usage, a main element with two child elements nested inside it:
 
- `<main> 
-  <h1>Hello World</h1>
-  <p>Hello Paragraph</p>
-</main>
-`
+ `<main>  `
+  `<h1>Hello World</h1> `
+  `<p>Hello Paragraph</p> `
+`</main> `
+
 
 
 
