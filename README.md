@@ -63,7 +63,7 @@
 For example: href="#"
 
 #### 8) Unordered list
-##### Unordered lists start with an opening `<ul>` element, followed by any number of `<li>` elements. Finally,        ##### unordered lists close with a `</ul>`
+##### Unordered lists start with an opening `<ul>` element, followed by any number of `<li>` elements. Finally,        unordered lists close with a `</ul>`
 ```
 <ul>
   <li>milk</li>
